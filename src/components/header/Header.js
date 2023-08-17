@@ -9,8 +9,8 @@ const Header = () => {
         <nav>
         <ul>
             <li><a href="#Features">Features</a></li>
-            <li><a href="#Pricing">Pricing</a>Pricing</li>
-            <li><a href="#Resources">Resources</a>Resources</li>
+            <li><a href="#Pricing">Pricing</a></li>
+            <li><a href="#Resources">Resources</a></li>
         </ul>
         </nav>
         <Button buttonText={"Login"}/>
