@@ -15,6 +15,14 @@ const Footer = () => {
                 <li><a href="#Analytics">Analytics</a></li>
             </ul>
         </div>
+        <div className="footer-third-column">
+            <ul>
+                <li>Resources</li>
+                <li><a href="#Blog">Blog</a></li>
+                <li><a href="#Developers">Developers</a></li>
+                <li><a href="#Support">Support</a></li>
+            </ul>
+        </div>
     </footer>
   )
 }
