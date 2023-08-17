@@ -47,6 +47,7 @@ h1 {
     background-color: hsl(255, 11%, 22%);
     border: 2px solid hsl(255, 11%, 22%);
     border-radius: 10px;
+    margin-top: 5%;
 }
 
 input {
@@ -62,6 +63,8 @@ input {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .third-section h2 {
