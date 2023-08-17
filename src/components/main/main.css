@@ -94,7 +94,7 @@ input {
 .card-separation{
     position: relative;
     top: 80%;
-    background-color: aquamarine;
+    background-color: hsl(180, 66%, 49%);
     width: 100px;
     height: 5px;
 }
