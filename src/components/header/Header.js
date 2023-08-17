@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../../images/logo.svg'
+import Button from '../common/button/Button'
 
 const Header = () => {
   return (
@@ -12,6 +13,8 @@ const Header = () => {
             <li><a href="#Resources">Resources</a>Resources</li>
         </ul>
         </nav>
+        <Button buttonText={"Login"}/>
+        <Button buttonText={"Sign Up"}/>
 
     </header>
   )
