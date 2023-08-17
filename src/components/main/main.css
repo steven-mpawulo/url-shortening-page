@@ -98,3 +98,23 @@ input {
     width: 100px;
     height: 5px;
 }
+
+.fifth-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    align-items: center;
+    background-image: url('../../images/bg-boost-mobile.svg'), url('../../images/bg-shorten-desktop.svg');
+    background-position: left, right;
+    background-size: 100%, 80%;
+    background-repeat: no-repeat, no-repeat;
+    background-color: hsl(255, 11%, 22%);
+    border: 2px solid hsl(255, 11%, 22%);
+}
+
+.fifth-section h2 {
+    color: white;
+}
