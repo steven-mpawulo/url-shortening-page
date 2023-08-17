@@ -3,3 +3,17 @@ footer {
     justify-content: space-around;
     background-color: hsl(260, 8%, 14%);
 }
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li:first-child{
+    color: white;
+    margin-bottom: 10px;
+}
+
+footer ul a {
+    color: hsl(0, 0%, 75%);
+    text-decoration: none;
+}
