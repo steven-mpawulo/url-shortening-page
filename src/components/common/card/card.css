@@ -1,0 +1,16 @@
+.card {
+    border: 2px solid grey;
+    position: relative;
+}
+.container-for-icon {
+    position: relative;
+    top: -25px;
+    left: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    width: 4%;
+    border-radius: 28px;
+    background-color: hsl(255, 11%, 22%);
+}
