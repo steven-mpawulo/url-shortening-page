@@ -14,7 +14,7 @@ const Header = () => {
             <li><a href="#Resources">Resources</a></li>
         </ul>
         </nav>
-        <Button buttonText={"Login"}/>
+        <Button buttonText={"Login"} border={"none"}/>
         <Button buttonText={"Sign Up"}/>
 
     </header>
