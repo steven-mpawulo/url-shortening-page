@@ -1,5 +1,9 @@
 import React from 'react'
 import Logo from '../../images/logo.svg'
+import FacebookIcon from '../../images/icon-facebook.svg'
+import TwitterIcon from '../../images/icon-twitter.svg'
+import PinterestIcon from '../../images/icon-pinterest.svg'
+import InstagramIcon from '../../images/icon-instagram.svg'
 
 const Footer = () => {
   return (
@@ -31,6 +35,12 @@ const Footer = () => {
                 <li><a href="#Careers">Careers</a></li>
                 <li><a href="#Contact">Contact</a></li>
             </ul>
+        </div>
+        <div className="footer-icons-container">
+            <img src={FacebookIcon} alt="facebook-icon" />
+            <img src={TwitterIcon} alt="twitter-icon" />
+            <img src={PinterestIcon} alt="pinterest-icon" />
+            <img src={InstagramIcon} alt="instagram-icon" />
         </div>
     </footer>
   )
