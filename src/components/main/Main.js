@@ -18,7 +18,7 @@ const Main = () => {
         </section>
         <section className='second-section'>
             <div className="wrapper">
-                <input type="text" placeholder='Shorten a link here' />
+                <input type="text" placeholder='Shorten a link here...' />
                 <Button buttonText={"Shorten It!"} border={"2px solid hsl(180, 66%, 49%)"} backgroundColor={"hsl(180, 66%, 49%)"} color={"white"} borderRadius={"10px"}/>
             </div>
         </section>
