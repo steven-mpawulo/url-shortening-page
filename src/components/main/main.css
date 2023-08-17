@@ -7,7 +7,17 @@
     display: flex;
     flex-direction: column;
 }
+h1 {
+    font-size: 42px;
+}
+.first-section-left-container span {
+    display: block;
+}
 
 .first-section-right-container {
     width: 50%;
+}
+
+.illustration-hero {
+    width: 100%;
 }
