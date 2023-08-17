@@ -30,7 +30,15 @@ const Main = () => {
                 our advanced statistics dashboard.</span></p>
         </section>
         <section className='fourth-section'>
+            <div className="container-for-cards">
             <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
+            <div className="card-separation">
+            </div>
+            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
+            <div className="card-separation">
+            </div>
+            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
+            </div>
         </section>
     </main>
   )

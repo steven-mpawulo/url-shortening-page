@@ -79,3 +79,22 @@ input {
     display: block;
     text-align: center;
 }
+
+.fourth-section {
+    width: 100%;
+    display: flex;
+    justify-content: center ;
+}
+
+.container-for-cards {
+    display: flex;
+
+}
+
+.card-separation{
+    position: relative;
+    top: 50%;
+    background-color: aquamarine;
+    width: 100px;
+    height: 5px;
+}
