@@ -4,6 +4,8 @@
 
 .first-section-left-container {
     width: 50%;
+    display: flex;
+    flex-direction: column;
 }
 
 .first-section-right-container {
