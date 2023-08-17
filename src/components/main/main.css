@@ -57,3 +57,9 @@ input {
     border-radius: 10px;
     padding-left: 2%;
 }
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
