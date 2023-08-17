@@ -3,6 +3,7 @@ footer {
     justify-content: space-around;
     background-color: hsl(260, 8%, 14%);
     align-items: first baseline;
+    padding: 2%;
 
 }
 
