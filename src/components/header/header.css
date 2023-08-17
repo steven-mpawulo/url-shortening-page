@@ -3,3 +3,8 @@ header {
     align-items: center;
     justify-content: space-around;
 }
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
