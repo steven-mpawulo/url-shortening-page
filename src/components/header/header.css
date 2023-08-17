@@ -8,3 +8,10 @@ nav ul {
     display: flex;
     list-style-type: none;
 }
+
+nav ul a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: hsl(0, 0%, 75%);
+    font-weight: bold;
+}
