@@ -2,6 +2,8 @@ import React from 'react'
 import Button from '../common/button/Button'
 import IllustrationWorking  from '../../images/illustration-working.svg'
 import './main.css'
+import Card from '../common/card/Card'
+import brandRecognitionIcon from '../../images/icon-brand-recognition.svg'
 
 const Main = () => {
   return (
@@ -27,7 +29,9 @@ const Main = () => {
             <p>Track how your links are performing across the web with <span>
                 our advanced statistics dashboard.</span></p>
         </section>
-        <section className='fourth-section'></section>
+        <section className='fourth-section'>
+            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
+        </section>
     </main>
   )
 }
