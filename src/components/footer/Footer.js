@@ -23,6 +23,15 @@ const Footer = () => {
                 <li><a href="#Support">Support</a></li>
             </ul>
         </div>
+        <div className="footer-fourth-column">
+            <ul>
+                <li>Company</li>
+                <li><a href="#About">About</a></li>
+                <li><a href="#Our tema">Our Team</a></li>
+                <li><a href="#Careers">Careers</a></li>
+                <li><a href="#Contact">Contact</a></li>
+            </ul>
+        </div>
     </footer>
   )
 }
