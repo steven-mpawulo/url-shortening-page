@@ -27,6 +27,7 @@ const Main = () => {
             <p>Track how your links are performing across the web with <span>
                 our advanced statistics dashboard.</span></p>
         </section>
+        <section className='fourth-section'></section>
     </main>
   )
 }
