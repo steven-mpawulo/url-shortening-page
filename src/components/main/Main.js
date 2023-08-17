@@ -1,6 +1,7 @@
 import React from 'react'
 import Button from '../common/button/Button'
 import IllustrationWorking  from '../../images/illustration-working.svg'
+import './main.css'
 
 const Main = () => {
   return (
