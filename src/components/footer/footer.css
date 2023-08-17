@@ -19,3 +19,9 @@ footer ul a {
     color: hsl(0, 0%, 75%);
     text-decoration: none;
 }
+
+.footer-icons-container {
+    display: flex;
+    width: 15%;
+    justify-content: space-around;
+}
