@@ -34,10 +34,10 @@ const Main = () => {
             <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
             <div className="card-separation">
             </div>
-            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
+            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} position={"relative"} pushedFromTop={"50px"}/>
             <div className="card-separation">
             </div>
-            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} />
+            <Card icon={brandRecognitionIcon}  title= {"Brand Recognition"} message={"Boost your brand recognition with each click"} position={"relative"} pushedFromTop={"100px"}/>
             </div>
         </section>
     </main>
