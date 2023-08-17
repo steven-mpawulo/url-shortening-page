@@ -42,6 +42,10 @@ const Main = () => {
                     <Card icon={fullyCustomizableIcon} title={"Fully Customizable"} message={"Boost your brand recognition with each click"} position={"relative"} pushedFromTop={"100px"} />
                 </div>
             </section>
+            <section className='fifth-section'>
+                <h2>Boost your links today</h2>
+                <Button buttonText={"Get started"} border={"2px solid hsl(180, 66%, 49%)"} backgroundColor={"hsl(180, 66%, 49%)"} color={"white"} borderRadius={"25px"} />
+            </section>
         </main>
     )
 }
