@@ -66,6 +66,8 @@ input {
 
 .third-section h2 {
     color: hsl(255, 11%, 22%);
+    margin-bottom: 0;
+
 }
 
 .third-section p {
