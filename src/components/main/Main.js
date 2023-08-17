@@ -22,6 +22,11 @@ const Main = () => {
                 <Button buttonText={"Shorten It!"} border={"2px solid hsl(180, 66%, 49%)"} backgroundColor={"hsl(180, 66%, 49%)"} color={"white"} borderRadius={"10px"}/>
             </div>
         </section>
+        <section className='third-section'>
+            <h2>Advanced Statistics</h2>
+            <p>Track how your links are performing across the web with <span>
+                our advanced statistics dashboard.</span></p>
+        </section>
     </main>
   )
 }
