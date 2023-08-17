@@ -1,5 +1,6 @@
 import React from 'react'
 import Button from '../common/button/Button'
+import IllustrationWorking  from '../../images/illustration-working.svg'
 
 const Main = () => {
   return (
@@ -11,6 +12,9 @@ const Main = () => {
             </div>
             <div className="first-section-right-container"></div>
             <Button buttonText={"Get Started"} border={"2px solid hsl(180, 66%, 49%)"} backgroundColor={"hsl(180, 66%, 49%)"} color={"white"} borderRadius={"25px"}/>
+            <div className="first-section-right-container">
+                <img src={IllustrationWorking} alt="illustration-hero" />
+            </div>
         </section>
     </main>
   )
