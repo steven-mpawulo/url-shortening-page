@@ -4,6 +4,15 @@
     width: 100%;
     border-radius: 8px;
 }
+.card h3 {
+    color: hsl(255, 11%, 22%);
+    padding: 5%;
+}
+
+.card p {
+    color: hsl(0, 0%, 75%);
+    padding: 5%;
+}
 .container-for-icon {
     position: relative;
     top: -25px;
